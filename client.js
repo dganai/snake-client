@@ -19,7 +19,10 @@ const connect = function () {
 
   });
 
-
+// commands for moving
+ // setInterval(() => {
+ // conn.write('Move: up');
+ // }, 40);
 
 
   // even handler for when program is idle
